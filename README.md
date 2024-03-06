@@ -18,7 +18,7 @@ The googleapiclient library in Python facilitates the communication with differe
 MONGODB:
 MongoDB is built on a scale-out architecture that has become popular with developers of all kinds for developing scalable applications with evolving data schemas. As a document database, MongoDB makes it easy for developers to store structured or unstructured data. It uses a JSON-like format to store documents.
 
-MYSQL:
+postgreSQL:
 MYSQL is an open-source, advanced, and highly scalable database management system (DBMS) known for its reliability and extensive features. It provides a platform for storing and managing structured data, offering support for various data types and advanced SQL capabilities.
 
 YOUTUBE DATA SCRAPPING AND ITS ETHICAL PERSPECTIVE:
@@ -30,7 +30,7 @@ REQUIRED LIBRARIES:
 
 2.streamlit
 
-3.mysql.connector
+3.psycopg2
 
 4.pymongo
 
